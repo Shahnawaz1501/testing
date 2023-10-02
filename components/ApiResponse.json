@@ -1,0 +1,124 @@
+[
+    {
+        "alias": "running-goose-los-angeles",
+        "categories": [
+            [Object
+            ],
+            [Object
+            ]
+        ],
+        "coordinates": {
+            "latitude": 34.10052,
+            "longitude": -118.32927
+        },
+        "display_phone": "(323) 469-1080",
+        "distance": 810.7334261652435,
+        "id": "RVbZaawgEGmto6TxOoVBdQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q-IG5LRfrr9sJXz-jx8XVQ/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "1620 N Cahuenga Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Los Angeles",
+            "country": "US",
+            "display_address": [Array
+            ],
+            "state": "CA",
+            "zip_code": "90028"
+        },
+        "name": "Running Goose",
+        "phone": "+13234691080",
+        "price": "$$",
+        "rating": 4.5,
+        "review_count": 1707,
+        "transactions": [
+            "delivery",
+            "restaurant_reservation",
+            "pickup"
+        ],
+        "url": "https://www.yelp.com/biz/running-goose-los-angeles?adjust_creative=JilzI14igObymiePp9PeXg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JilzI14igObymiePp9PeXg"
+    },
+    {
+        "alias": "granville-west-hollywood-2",
+        "categories": [
+            [Object
+            ],
+            [Object
+            ]
+        ],
+        "coordinates": {
+            "latitude": 34.0771299,
+            "longitude": -118.38068
+        },
+        "display_phone": "(424) 522-5161",
+        "distance": 5322.3255950262055,
+        "id": "cal0Wpupxj9c_AV7WzDXsw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/znY6Wq1711cPvOtfKxWZZg/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "8701 Beverly Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "West Hollywood",
+            "country": "US",
+            "display_address": [Array
+            ],
+            "state": "CA",
+            "zip_code": "90048"
+        },
+        "name": "GRANVILLE",
+        "phone": "+14245225161",
+        "price": "$$",
+        "rating": 4.5,
+        "review_count": 2692,
+        "transactions": [
+            "restaurant_reservation",
+            "delivery",
+            "pickup"
+        ],
+        "url": "https://www.yelp.com/biz/granville-west-hollywood-2?adjust_creative=JilzI14igObymiePp9PeXg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JilzI14igObymiePp9PeXg"
+    },
+    {
+        "alias": "eat-this-cafe-los-angeles",
+        "categories": [
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ]
+        ],
+        "coordinates": {
+            "latitude": 34.09087,
+            "longitude": -118.3323
+        },
+        "display_phone": "(323) 999-2003",
+        "distance": 616.3062697856392,
+        "id": "GbAZbcCR969hfa4kCQqRcw",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JnO3SLDimv-99ZAU1SN2ew/o.jpg",
+        "is_closed": false,
+        "location": {
+            "address1": "6547 Santa Monica Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Los Angeles",
+            "country": "US",
+            "display_address": [Array
+            ],
+            "state": "CA",
+            "zip_code": "90038"
+        },
+        "name": "Eat This Cafe",
+        "phone": "+13239992003",
+        "price": "$$",
+        "rating": 4,
+        "review_count": 2147,
+        "transactions": [
+            "restaurant_reservation",
+            "delivery",
+            "pickup"
+        ],
+        "url": "https://www.yelp.com/biz/eat-this-cafe-los-angeles?adjust_creative=JilzI14igObymiePp9PeXg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JilzI14igObymiePp9PeXg"
+    }
+]
